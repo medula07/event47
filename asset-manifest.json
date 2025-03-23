@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/medula07/event47/static/css/main.19b1bb8a.css",
+    "main.js": "/medula07/event47/static/js/main.2f742930.js",
+    "index.html": "/medula07/event47/index.html",
+    "main.19b1bb8a.css.map": "/medula07/event47/static/css/main.19b1bb8a.css.map",
+    "main.2f742930.js.map": "/medula07/event47/static/js/main.2f742930.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19b1bb8a.css",
+    "static/js/main.2f742930.js"
+  ]
+}
